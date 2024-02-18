@@ -1,0 +1,16 @@
+.emoji-container {
+  margin: 5px;
+}
+.emj-name {
+  font-size: 18px;
+  font-weight: 600;
+}
+.emj-btn {
+  background-color: transparent;
+  border-width: 0px;
+  outline: none;
+  cursor: pointer;
+}
+.emj-img {
+  width: 50px;
+}

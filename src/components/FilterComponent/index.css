@@ -1,0 +1,26 @@
+.filter-container {
+  margin: 10px;
+  background-image: linear-gradient(to right, #343243, #1c1a28);
+  box-shadow: inset 10px 10px 5px -5px #4e5d72;
+  border-radius: 20px;
+  padding: 10px;
+  height: 50%;
+  border-style: solid;
+  text-align: center;
+  border-color: #4e5d72;
+}
+
+.select-container {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.select-wrapper {
+  background-color: #42404d;
+  padding: 10px;
+  border-radius: 10px;
+  color: white;
+}

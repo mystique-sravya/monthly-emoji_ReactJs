@@ -1,0 +1,14 @@
+.date-cell {
+  width: 14%;
+  text-align: center;
+  padding: 10px 0;
+  box-sizing: border-box;
+  background-color: #42404d;
+  border-radius: 10px;
+  margin: 2px;
+}
+.date-btn {
+  border-width: 0px;
+  background-color: transparent;
+  outline: none;
+}
